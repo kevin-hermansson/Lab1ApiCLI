@@ -1,0 +1,9 @@
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.csproj.AssemblyReference.cache
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.AssemblyInfoInputs.cache
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.AssemblyInfo.cs
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.csproj.CoreCompileInputs.cache
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net8.0\Lab1ApiCLI.sourcelink.json

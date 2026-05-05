@@ -17,7 +17,13 @@ public class ProductController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
     {
-        return await _context.Products.ToListAsync();
+            return Ok(new List<Product>
+            {
+                new Product { Id = 1, Name = "Product 1", Price = 10.99m },
+                new Product { Id = 2, Name = "Product 2", Price = 19.99m },
+                new Product { Id = 3, Name = "Product 3", Price = 5.49m }
+            });
+        //return await _context.Products.ToListAsync();
     }
 
     [HttpPost]
