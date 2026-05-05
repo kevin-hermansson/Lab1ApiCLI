@@ -21,6 +21,6 @@ steps:
 
 - task: AzureWebApp@1
   inputs:
-    azureSubscription: '<DIN SERVICE CONNECTION>'
+    azureSubscription: '<lab1-connection>'
     appName: 'lab1api-kevin123'
     package: '$(Build.ArtifactStagingDirectory)'
