@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
     //options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddApplicationInsightsTelemetry();
 
 var app = builder.Build();
 app.UseSwagger();

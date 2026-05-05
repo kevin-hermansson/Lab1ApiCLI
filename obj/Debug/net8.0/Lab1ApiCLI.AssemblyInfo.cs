@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab1ApiCLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20de6ca94b9ea42997bab86d1fbc85138eb953f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d992d35e3c5964c7c513f36a6c61d60b528af91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab1ApiCLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab1ApiCLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
