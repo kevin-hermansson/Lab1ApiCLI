@@ -8,7 +8,10 @@ C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Lab1ApiCLI.d
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Lab1ApiCLI.pdb
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Azure.Core.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Azure.Identity.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Azure.Monitor.OpenTelemetry.Exporter.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Humanizer.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.ApplicationInsights.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.ApplicationInsights.AspNetCore.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
@@ -42,6 +45,15 @@ C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.Op
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.Api.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.Instrumentation.SqlClient.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.PersistentStorage.Abstractions.dll
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\OpenTelemetry.PersistentStorage.FileSystem.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -153,6 +165,7 @@ C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.A
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.csproj.CoreCompileInputs.cache
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.sourcelink.json
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -168,4 +181,3 @@ C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\refint\Lab1A
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.pdb
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.genruntimeconfig.cache
 C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\ref\Lab1ApiCLI.dll
-C:\Projects\DesignaMolnlösningar\Lab1\Lab1ApiCLI\obj\Debug\net10.0\Lab1ApiCLI.sourcelink.json
