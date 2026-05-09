@@ -26,4 +26,3 @@ app.MapControllers();
 
 app.Run();
 
-//trigg main
