@@ -12,7 +12,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         builder.Configuration["DefaultConnection"]));
 
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddApplicationInsightsTelemetry();
 
 var app = builder.Build();
 app.UseSwagger();
